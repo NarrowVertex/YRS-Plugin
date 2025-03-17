@@ -1,0 +1,5 @@
+name: YRSModHelpPlugin
+main: com.abnull.yrs.YRSModHelpPlugin
+version: 2.0
+description: Help Plugin For YRS Mod.
+commands:
